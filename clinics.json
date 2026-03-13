@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sunrise Clinic",
+    "lat": 17.385,
+    "lng": 78.486,
+    "city": "Hyderabad",
+    "speciality": "General Physician",
+    "voxcare_supported": true,
+    "booking_link": "https://voxcare.ai/book"
+  },
+  {
+    "name": "Apollo Clinic",
+    "lat": 17.37,
+    "lng": 78.48,
+    "city": "Hyderabad",
+    "speciality": "Cardiology",
+    "voxcare_supported": false,
+    "booking_link": ""
+  },
+  {
+    "name": "Green Leaf Dental Care",
+    "lat": 17.405,
+    "lng": 78.47,
+    "city": "Hyderabad",
+    "speciality": "Dentistry",
+    "voxcare_supported": true,
+    "booking_link": "https://voxcare.ai/book"
+  },
+  {
+    "name": "Nova Women's Health Center",
+    "lat": 17.355,
+    "lng": 78.495,
+    "city": "Hyderabad",
+    "speciality": "Gynecology",
+    "voxcare_supported": true,
+    "booking_link": "https://voxcare.ai/book"
+  }
+]

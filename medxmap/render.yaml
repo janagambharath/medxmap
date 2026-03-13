@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: medxmap
-    runtime: static
-    staticPublishPath: .
-    pullRequestPreviewsEnabled: false
